@@ -1,5 +1,5 @@
 
-# AuthApp
+# MovieSofttek
 App de pelicular mediante consumo de una API Rest
 
 ## Screenshots
